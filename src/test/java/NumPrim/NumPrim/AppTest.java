@@ -10,7 +10,6 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-	private static MyMath myMath;
     /**
      * Create the test case
      *
